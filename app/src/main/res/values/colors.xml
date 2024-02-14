@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#023e8a</color>
+    <color name="colorPrimaryDark">#03045e</color>
+    <color name="colorAccent">#0077b6</color>
+    <color name="buttonLabel">#caf0f8</color>
+    <color name="splash_background">#90e0ef</color>
+
+    <color name="FederalBlue">#03045e</color>
+    <color name="MarianBlue">#023e8a</color>
+    <color name="HonoluluBlue">#0077b6</color>
+    <color name="BlueGreen">#0096c7</color>
+    <color name="PacificCyan">#00b4d8</color>
+    <color name="VividSkyBlue">#48cae4</color>
+    <color name="PhotoBlue">#90e0ef</color>
+    <color name="NonPhotoBlue">#ade8f4</color>
+    <color name="LightCyan">#caf0f8</color>
+</resources>
