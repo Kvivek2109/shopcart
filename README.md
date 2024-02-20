@@ -31,9 +31,3 @@ ShopCart is a Kotlin-based Android application developed in Android Studio, empl
 - User("user2", "password2")
 - User("test@gmail.com", "pass123")
 - User("user10", "password10")
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or pull requests for improvements.
-
-Thank you for using ShopCart! If you have any questions, reach out to us anytime.
